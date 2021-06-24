@@ -4,5 +4,5 @@ name: Jamie Atlas
 group: local
 photo: "/uploads/atlas.jpg"
 description:
-  "**Jamie Atlas** is a project manager at MGGG where he works on our full range of research and software projects. He is interested in graph and network theory, and their applications to computational social science. His favorite state shape is West Virginia.\n"
+  "**Jamie Atlas** is a research associate at MGGG, where he works on various research and software projects. He is interested in statistics and computational social science. He is a recent graduate of UCLA, where he majored in mathematics. He is not currently studying for a PhD in computer science at Boston University.\n"
 ---
